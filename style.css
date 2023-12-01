@@ -1,1 +1,6 @@
 /* Visibility property */
+.visible
+{
+  visibility: visible:
+}
+.hidden
