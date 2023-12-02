@@ -19,13 +19,13 @@
 /* Display */
 .none {
   display: none;
-  front-weight: bold;
+  font-weight: bold;
 }
 .inline {
   display: inline;
-  front-weight: bold;
+  font-weight: bold;
 }
 .block {
   display: block;
-  front-weight: bold;
+  font-weight: bold;
 }
